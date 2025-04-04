@@ -32,9 +32,7 @@ PowerBI-Repo/
 - **README.md**: Project-specific details within each subdirectory.
 
 ## Copyright & Licensing
-All materials in this repository are original works © Jordan Abuhantash 2025. Inspired by [Jordan Abuhantash](https://github.com/jabu9)’s licensing approach, unless otherwise noted. You may:
-- View and modify for non-commercial purposes with attribution.
-- Contact me for commercial use permissions.
+You may: View and modify for non-commercial purposes with attribution. Contact me for commercial use permissions.
 
 ## Usage
 Clone the repository and open `.pbix` files in Power BI Desktop to explore or adapt the projects.
